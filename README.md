@@ -7,7 +7,7 @@
 </p>
 
 <h3 align='center' style='margin: 16px 4px;'>
-    <a href='https://github.com/sindukuriTeja/film_Ai_studio'>My Portfolio Website</a>
+    <a href='https://sindukuriteja.github.io/teja-portfolio/'>My Portfolio Website</a>
 </h3>
 
 <h3 align="justify">
